@@ -1,4 +1,6 @@
-Nme:Dion
+CV
+
+Name:Dion
 Surname:Ibrahimi
 Age:17
-Email:dioni@gmail.com
+Email:dioni
